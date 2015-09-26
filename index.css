@@ -2,11 +2,11 @@
 //dark red FF392F
 
 body {
-  height:100vh !important;
   background-image: url('./background.png') !important;
   background-repeat: no repeat;
 }
 .content {
+  width: 100%;
   text-align: center;
   position: fixed;
 	top: 40%;

@@ -18,11 +18,11 @@ body {
 
 .logo {
   margin: auto;
-  width: 500px;
 }
 
 img {
-  max-width: 100%;
+  max-width: 40%;
+  min-width: 300px;
 }
 
 .title {

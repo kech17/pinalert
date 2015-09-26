@@ -1,0 +1,42 @@
+//red FF5148
+//dark red FF392F
+
+body {
+  height:100vh !important;
+  background-image: url('./background.png') !important;
+  background-repeat: no repeat;
+}
+.content {
+  text-align: center;
+  position: fixed;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -40%);
+	-webkit-transform: translate(-50%, -40%);
+	-ms-transform: translate(-50%, -40%);
+}
+
+.logo {
+  margin: auto;
+  width: 500px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.title {
+  color: white;
+  font-size: 6em;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.caption {
+  padding-top: 1.5%;
+  letter-spacing: 10px;
+  color: white;
+  font-size: 2em;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
